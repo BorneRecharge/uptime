@@ -4,19 +4,19 @@
     "url": "https://bornerecharge.fr",
     "icon": "https://icons.duckduckgo.com/ip3/bornerecharge.fr.ico",
     "slug": "website-brs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1176,
-    "timeDay": 764,
-    "timeWeek": 1151,
-    "timeMonth": 1176,
-    "timeYear": 1176,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 1187,
+    "timeDay": 949,
+    "timeWeek": 1170,
+    "timeMonth": 1187,
+    "timeYear": 1187,
     "dailyMinutesDown": {
-      "2023-09-21": 0
+      "2023-09-21": 6
     }
   },
   {
