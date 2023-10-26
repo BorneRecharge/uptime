@@ -13,7 +13,7 @@
     "time": 1279,
     "timeDay": 1164,
     "timeWeek": 1235,
-    "timeMonth": 1328,
+    "timeMonth": 1337,
     "timeYear": 1279,
     "dailyMinutesDown": {}
   },
@@ -96,35 +96,39 @@
     "url": "$SUPERVISION_BRS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "supervision-brs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1217,
-    "timeDay": 678,
-    "timeWeek": 948,
-    "timeMonth": 1335,
-    "timeYear": 1217,
-    "dailyMinutesDown": {}
+    "time": 1197,
+    "timeDay": 450,
+    "timeWeek": 857,
+    "timeMonth": 1301,
+    "timeYear": 1197,
+    "dailyMinutesDown": {
+      "2023-10-26": 0
+    }
   },
   {
     "name": "Supervision BRS (legacy route)",
     "url": "$SUPERVISION_BRS_LEGACY_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "supervision-brs-legacy-route",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1305,
-    "timeDay": 954,
-    "timeWeek": 1113,
-    "timeMonth": 1446,
-    "timeYear": 1305,
-    "dailyMinutesDown": {}
+    "time": 1283,
+    "timeDay": 593,
+    "timeWeek": 1003,
+    "timeMonth": 1409,
+    "timeYear": 1283,
+    "dailyMinutesDown": {
+      "2023-10-26": 0
+    }
   }
 ]
