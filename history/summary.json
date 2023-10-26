@@ -96,19 +96,19 @@
     "url": "$SUPERVISION_BRS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "supervision-brs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1197,
-    "timeDay": 450,
-    "timeWeek": 857,
-    "timeMonth": 1301,
-    "timeYear": 1197,
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "87.82%",
+    "uptimeWeek": "98.26%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.72%",
+    "time": 1192,
+    "timeDay": 617,
+    "timeWeek": 867,
+    "timeMonth": 1291,
+    "timeYear": 1192,
     "dailyMinutesDown": {
-      "2023-10-26": 0
+      "2023-10-26": 175
     }
   },
   {
@@ -116,19 +116,19 @@
     "url": "$SUPERVISION_BRS_LEGACY_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "supervision-brs-legacy-route",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1283,
-    "timeDay": 593,
-    "timeWeek": 1003,
-    "timeMonth": 1409,
-    "timeYear": 1283,
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "87.82%",
+    "uptimeWeek": "98.26%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.72%",
+    "time": 1281,
+    "timeDay": 778,
+    "timeWeek": 1019,
+    "timeMonth": 1402,
+    "timeYear": 1281,
     "dailyMinutesDown": {
-      "2023-10-26": 0
+      "2023-10-26": 175
     }
   }
 ]
