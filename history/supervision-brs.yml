@@ -1,7 +1,7 @@
 url: $SUPERVISION_BRS_URL
-status: down
-code: 525
-responseTime: 491
-lastUpdated: 2023-11-14T05:09:06.645Z
+status: up
+code: 200
+responseTime: 751
+lastUpdated: 2023-11-14T05:23:20.089Z
 startTime: 2023-09-12T15:14:36.066Z
 generator: Upptime <https://github.com/upptime/upptime>
