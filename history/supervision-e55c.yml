@@ -1,7 +1,7 @@
 url: $SUPERVISION_E55C_URL
-status: down
-code: 500
-responseTime: 297
-lastUpdated: 2023-11-27T23:11:35.752Z
+status: up
+code: 200
+responseTime: 282
+lastUpdated: 2023-11-27T23:23:09.580Z
 startTime: 2023-09-12T15:14:32.375Z
 generator: Upptime <https://github.com/upptime/upptime>
