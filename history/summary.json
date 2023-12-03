@@ -26,9 +26,9 @@
     "slug": "website-br-park",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1186,
     "timeDay": 1194,
@@ -36,7 +36,7 @@
     "timeMonth": 1360,
     "timeYear": 1186,
     "dailyMinutesDown": {
-      "2023-12-03": 0
+      "2023-12-03": 5
     }
   },
   {
