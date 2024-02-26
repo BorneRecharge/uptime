@@ -47,7 +47,7 @@
     "url": "https://portail.bornerecharge.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/portail.bornerecharge.fr.ico",
     "slug": "portail-client",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
     "uptimeDay": "98.18%",
     "uptimeWeek": "94.61%",
@@ -59,6 +59,7 @@
     "timeMonth": 1412,
     "timeYear": 493,
     "dailyMinutesDown": {
+      "2024-02-26": 0,
       "2024-02-25": 44,
       "2024-02-24": 72,
       "2024-02-23": 61,
