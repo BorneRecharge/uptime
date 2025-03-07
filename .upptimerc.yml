@@ -9,10 +9,8 @@ sites:
     url: https://brpark.fr
   - name: Portail client
     url: https://portail.bornerecharge.fr/
-  - name: Supervision PDB
-    url: $SUPERVISION_PDB_URL
-  - name: Supervision e55c
-    url: $SUPERVISION_E55C_URL
+  - name: Supervision 4SH
+    url: $SUPERVISION_4SH_URL
   - name: Supervision BRS
     url: $SUPERVISION_BRS_URL
   - name: Supervision BRS (legacy route)
