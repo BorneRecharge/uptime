@@ -4,7 +4,7 @@
     "url": "https://bornerecharge.fr",
     "icon": "https://icons.duckduckgo.com/ip3/bornerecharge.fr.ico",
     "slug": "website-brs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "98.76%",
     "uptimeWeek": "99.33%",
@@ -16,6 +16,7 @@
     "timeMonth": 1296,
     "timeYear": 1281,
     "dailyMinutesDown": {
+      "2025-03-12": 0,
       "2025-03-11": 18,
       "2025-03-10": 49,
       "2025-03-03": 19,
