@@ -76,18 +76,20 @@
     "url": "$SUPERVISION_4SH_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "supervision-4-sh",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 420,
-    "timeDay": 409,
-    "timeWeek": 420,
-    "timeMonth": 420,
-    "timeYear": 420,
-    "dailyMinutesDown": {}
+    "time": 402,
+    "timeDay": 353,
+    "timeWeek": 402,
+    "timeMonth": 402,
+    "timeYear": 402,
+    "dailyMinutesDown": {
+      "2025-03-12": 0
+    }
   },
   {
     "name": "Supervision BRS",
