@@ -6,17 +6,16 @@
     "slug": "website-brs",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.38%",
     "time": 1369,
-    "timeDay": 1454,
-    "timeWeek": 1344,
-    "timeMonth": 1511,
-    "timeYear": 1400,
+    "timeDay": 1466,
+    "timeWeek": 1393,
+    "timeMonth": 1513,
+    "timeYear": 1401,
     "dailyMinutesDown": {
-      "2025-09-18": 11,
       "2025-07-20": 16,
       "2025-07-19": 2,
       "2025-07-03": 19,
@@ -50,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1128,
-    "timeDay": 2141,
-    "timeWeek": 1319,
-    "timeMonth": 1466,
-    "timeYear": 1080,
+    "timeDay": 1351,
+    "timeWeek": 1347,
+    "timeMonth": 1473,
+    "timeYear": 1082,
     "dailyMinutesDown": {}
   },
   {
@@ -67,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 961,
-    "timeDay": 1333,
-    "timeWeek": 950,
-    "timeMonth": 1015,
-    "timeYear": 987,
+    "time": 962,
+    "timeDay": 1269,
+    "timeWeek": 1012,
+    "timeMonth": 1033,
+    "timeYear": 989,
     "dailyMinutesDown": {
       "2025-03-03": 18,
       "2024-11-12": 32
@@ -89,9 +88,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 489,
-    "timeDay": 582,
-    "timeWeek": 440,
-    "timeMonth": 606,
+    "timeDay": 566,
+    "timeWeek": 475,
+    "timeMonth": 612,
     "timeYear": 489,
     "dailyMinutesDown": {
       "2025-05-14": 33,
@@ -110,10 +109,10 @@
     "uptimeMonth": "99.74%",
     "uptimeYear": "97.39%",
     "time": 1669,
-    "timeDay": 2282,
-    "timeWeek": 905,
-    "timeMonth": 885,
-    "timeYear": 1813,
+    "timeDay": 717,
+    "timeWeek": 897,
+    "timeMonth": 886,
+    "timeYear": 1812,
     "dailyMinutesDown": {
       "2025-08-25": 116,
       "2025-08-04": 19,
@@ -134,8 +133,7 @@
       "2024-09-23": 1368,
       "2024-09-22": 1351,
       "2024-09-21": 1353,
-      "2024-09-20": 1197,
-      "2024-09-19": 91
+      "2024-09-20": 1197
     }
   },
   {
@@ -144,16 +142,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "supervision-brs-legacy-route",
     "status": "up",
-    "uptime": "97.84%",
+    "uptime": "97.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "97.33%",
     "time": 1694,
-    "timeDay": 1866,
-    "timeWeek": 939,
-    "timeMonth": 1065,
-    "timeYear": 1845,
+    "timeDay": 866,
+    "timeWeek": 986,
+    "timeMonth": 1071,
+    "timeYear": 1846,
     "dailyMinutesDown": {
       "2025-08-25": 114,
       "2025-04-28": 32,
@@ -175,8 +173,7 @@
       "2024-09-23": 1274,
       "2024-09-22": 1325,
       "2024-09-21": 1281,
-      "2024-09-20": 1210,
-      "2024-09-19": 88
+      "2024-09-20": 1210
     }
   }
 ]
