@@ -46,9 +46,9 @@
     "url": "https://brpark.fr",
     "icon": "https://icons.duckduckgo.com/ip3/brpark.fr.ico",
     "slug": "website-br-park",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -57,7 +57,9 @@
     "timeWeek": 1249,
     "timeMonth": 1277,
     "timeYear": 1123,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-27": 0
+    }
   },
   {
     "name": "Portail client",
