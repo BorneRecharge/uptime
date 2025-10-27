@@ -46,19 +46,19 @@
     "url": "https://brpark.fr",
     "icon": "https://icons.duckduckgo.com/ip3/brpark.fr.ico",
     "slug": "website-br-park",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1066,
-    "timeDay": 1034,
-    "timeWeek": 1249,
-    "timeMonth": 1277,
-    "timeYear": 1123,
+    "time": 1073,
+    "timeDay": 2732,
+    "timeWeek": 1646,
+    "timeMonth": 1375,
+    "timeYear": 1132,
     "dailyMinutesDown": {
-      "2025-10-27": 0
+      "2025-10-27": 9
     }
   },
   {
