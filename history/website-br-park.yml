@@ -1,7 +1,7 @@
 url: https://brpark.fr
-status: up
-code: 200
-responseTime: 1343
-lastUpdated: 2025-11-18T12:14:20.437Z
+status: down
+code: 500
+responseTime: 120
+lastUpdated: 2025-11-18T12:28:25.853Z
 startTime: 2023-09-12T15:14:29.503Z
 generator: Upptime <https://github.com/upptime/upptime>
