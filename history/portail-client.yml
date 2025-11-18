@@ -1,7 +1,7 @@
 url: https://portail.bornerecharge.fr/
-status: up
-code: 200
-responseTime: 973
-lastUpdated: 2025-11-18T12:14:24.143Z
+status: down
+code: 500
+responseTime: 209
+lastUpdated: 2025-11-18T12:28:28.161Z
 startTime: 2023-09-12T15:14:30.893Z
 generator: Upptime <https://github.com/upptime/upptime>
