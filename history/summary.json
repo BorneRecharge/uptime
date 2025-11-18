@@ -49,9 +49,9 @@
     "slug": "website-br-park",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "88.84%",
-    "uptimeWeek": "98.41%",
-    "uptimeMonth": "99.55%",
+    "uptimeDay": "89.58%",
+    "uptimeWeek": "98.51%",
+    "uptimeMonth": "99.57%",
     "uptimeYear": "99.96%",
     "time": 1078,
     "timeDay": 858,
@@ -59,7 +59,7 @@
     "timeMonth": 1197,
     "timeYear": 1103,
     "dailyMinutesDown": {
-      "2025-11-18": 161,
+      "2025-11-18": 150,
       "2025-11-08": 36
     }
   },
@@ -145,9 +145,9 @@
     "url": "$SUPERVISION_BRS_LEGACY_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "supervision-brs-legacy-route",
-    "status": "up",
+    "status": "down",
     "uptime": "98.00%",
-    "uptimeDay": "89.57%",
+    "uptimeDay": "89.55%",
     "uptimeWeek": "98.51%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "98.72%",
