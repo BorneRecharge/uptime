@@ -1,7 +1,7 @@
 url: $SUPERVISION_4SH_URL
-status: up
-code: 200
-responseTime: 468
-lastUpdated: 2025-11-17T23:03:49.378Z
+status: down
+code: 500
+responseTime: 211
+lastUpdated: 2025-11-18T11:37:52.294Z
 startTime: 2025-03-07T14:16:28.127Z
 generator: Upptime <https://github.com/upptime/upptime>
