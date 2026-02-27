@@ -11,10 +11,10 @@
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.28%",
     "time": 1455,
-    "timeDay": 1608,
-    "timeWeek": 1437,
-    "timeMonth": 1493,
-    "timeYear": 1456,
+    "timeDay": 1516,
+    "timeWeek": 1454,
+    "timeMonth": 1485,
+    "timeYear": 1457,
     "dailyMinutesDown": {
       "2026-02-26": 34,
       "2026-02-24": 39,
@@ -48,8 +48,7 @@
       "2025-03-13": 51,
       "2025-03-11": 18,
       "2025-03-10": 49,
-      "2025-03-03": 19,
-      "2025-02-27": 38
+      "2025-03-03": 19
     }
   },
   {
@@ -58,18 +57,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/brpark.fr.ico",
     "slug": "website-br-park",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1339,
-    "timeDay": 1343,
-    "timeWeek": 1430,
-    "timeMonth": 3205,
-    "timeYear": 1467,
+    "time": 1340,
+    "timeDay": 1345,
+    "timeWeek": 1460,
+    "timeMonth": 2899,
+    "timeYear": 1469,
     "dailyMinutesDown": {
-      "2026-02-26": 15,
       "2025-11-18": 150,
       "2025-11-08": 36
     }
@@ -85,11 +83,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1015,
-    "timeDay": 1409,
-    "timeWeek": 1034,
-    "timeMonth": 1051,
-    "timeYear": 1006,
+    "time": 1016,
+    "timeDay": 1313,
+    "timeWeek": 1115,
+    "timeMonth": 1067,
+    "timeYear": 1008,
     "dailyMinutesDown": {
       "2025-11-18": 147,
       "2025-03-03": 18
@@ -107,9 +105,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 482,
-    "timeDay": 480,
-    "timeWeek": 469,
-    "timeMonth": 478,
+    "timeDay": 529,
+    "timeWeek": 499,
+    "timeMonth": 482,
     "timeYear": 482,
     "dailyMinutesDown": {
       "2025-11-18": 150,
@@ -129,10 +127,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.90%",
     "time": 1349,
-    "timeDay": 864,
-    "timeWeek": 732,
-    "timeMonth": 780,
-    "timeYear": 1014,
+    "timeDay": 791,
+    "timeWeek": 764,
+    "timeMonth": 789,
+    "timeYear": 1015,
     "dailyMinutesDown": {
       "2026-02-24": 19,
       "2025-11-18": 131,
@@ -140,8 +138,7 @@
       "2025-08-04": 19,
       "2025-05-14": 22,
       "2025-04-28": 33,
-      "2025-03-03": 165,
-      "2025-02-27": 37
+      "2025-03-03": 165
     }
   },
   {
@@ -151,22 +148,20 @@
     "slug": "supervision-brs-legacy-route",
     "status": "up",
     "uptime": "98.22%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.91%",
     "time": 1314,
-    "timeDay": 971,
-    "timeWeek": 853,
-    "timeMonth": 835,
-    "timeYear": 1250,
+    "timeDay": 956,
+    "timeWeek": 868,
+    "timeMonth": 848,
+    "timeYear": 1251,
     "dailyMinutesDown": {
-      "2026-02-26": 12,
       "2025-11-18": 150,
       "2025-08-25": 114,
       "2025-04-28": 32,
-      "2025-03-03": 164,
-      "2025-02-27": 37
+      "2025-03-03": 164
     }
   }
 ]
